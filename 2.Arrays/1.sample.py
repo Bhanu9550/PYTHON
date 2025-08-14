@@ -1,4 +1,5 @@
-import array as arr   # First we need to import array module when we creating the arrays because we don't have built in array in python,And also we cn use arrays by using list.
+import array as arr   
+# First we need to import array module when we creating the arrays because we don't have built in array in python,And also we cn use arrays by using list.
 a=arr.array("I",[1,2,34,5])
 # Here, B is data type,is indicate integer.And also b,B,h,H,i,I,l,L are also indicate integer(int). And d,f are indicate float. 
 print(type(a))
